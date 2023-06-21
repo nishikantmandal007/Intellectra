@@ -1,4 +1,4 @@
-# LMS
+# Intellectra ( A LMS )
 This project is concerned with the analysis, design, development, implementation and evaluation of an e-learning management system to provide a user friendly environment for prospective students to acquire knowledge at any educational level and to bridge the gap between teachers and students.
 
 ![IMG_20221224_203650_185-01](https://user-images.githubusercontent.com/113323074/209441911-c41e5375-97ae-4f2f-9e57-566e8173d667.jpeg)
