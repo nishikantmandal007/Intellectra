@@ -1,4 +1,4 @@
-# Intellectra ( A LMS )
+# Intellectra ( An opensource LMS)
 This project is concerned with the analysis, design, development, implementation and evaluation of an e-learning management system to provide a user friendly environment for prospective students to acquire knowledge at any educational level and to bridge the gap between teachers and students.
 
 ![ezgif com-video-to-gif](https://github.com/nishikantmandal007/Intellectra/assets/113323074/9eb95a9d-cb6a-466e-9931-2b2dddeae041)
